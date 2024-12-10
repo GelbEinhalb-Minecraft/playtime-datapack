@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 48,
-    "description": "GelbEinhalb's Minecraft Playtime Datapack"
+    "pack_format": 61,
+    "description": "GelbEinhalb's Minecraft Playtime Datapack",
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 61
+    }
   }
 }
