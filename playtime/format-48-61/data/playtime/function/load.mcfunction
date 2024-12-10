@@ -7,7 +7,7 @@ scoreboard objectives add playtime_days dummy "Playtime (Days)"
 
 
 # Initialize internal scoreboards
-scoreboard objectives add playtime_timer trigger
+scoreboard objectives add playtime trigger
 
 # Finished loading
 tellraw @a {"text":"Loaded GelbEinhalb Playtime","color":"yellow"}
